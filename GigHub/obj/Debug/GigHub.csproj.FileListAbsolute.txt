@@ -84,3 +84,4 @@
 \\Mac\Home\Desktop\GigHub\GigHub\obj\Debug\GigHub.csproj.GenerateResource.Cache
 \\Mac\Home\Desktop\GigHub\GigHub\obj\Debug\GigHub.Migrations.CreateGigTable.resources
 \\Mac\Home\Desktop\GigHub\GigHub\obj\Debug\GigHub.Migrations.OverrideConventiosForGigsAndGenres.resources
+\\Mac\Home\Desktop\GigHub\GigHub\obj\Debug\GigHub.Migrations.PopulateGenresTable.resources
